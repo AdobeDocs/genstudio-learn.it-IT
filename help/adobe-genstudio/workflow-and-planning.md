@@ -12,7 +12,7 @@ jira: KT-14154
 source-git-commit: 3ded5e478ae37a582bd570fa0b6bf89a81d7580d
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -103,15 +103,15 @@ Adobi di soluzioni utilizzate per la pianificazione e il flusso di lavoro:
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utilizzare i plug-in di Adobe Workfront per l’integrazione con Creative Cloud" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3415452?format=jpeg" alt="Utilizzare i plug-in di Adobe Workfront per l’integrazione con Creative Cloud">
+        <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utilizzare i plug-in Adobe Workfront per l’integrazione con Creative Cloud" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3415452?format=jpeg" alt="Utilizzare i plug-in Adobe Workfront per l’integrazione con Creative Cloud">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utilizzare i plug-in di Adobe Workfront per l’integrazione con Creative Cloud">Utilizzare i plug-in di Adobe Workfront per l’integrazione con Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utilizzare i plug-in Adobe Workfront per l’integrazione con Creative Cloud">Utilizza i plug-in di Adobe Workfront per l'integrazione con Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Integra Workfront con Creative Cloud per trovare e aggiornare il lavoro assegnato senza uscire da Adobe Creative Cloud.</em></p>
       </div>
@@ -132,7 +132,7 @@ Adobi di soluzioni utilizzate per la pianificazione e il flusso di lavoro:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it" title="Configurare Adobe Workfront ed AEM Assets Essentials">Configurare Adobe Workfront ed AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it" title="Configurare Adobe Workfront ed AEM Assets Essentials">Configurare Adobe Workfront e AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Scopri come configurare l’integrazione di Adobe Workfront e Assets Essentials</em></p>
       </div>
@@ -153,7 +153,7 @@ Adobi di soluzioni utilizzate per la pianificazione e il flusso di lavoro:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Nozioni di base sui connettori migliorati di Workfront">Nozioni di base sui connettori migliorati di Workfront</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Nozioni di base sui connettori migliorati di Workfront">Nozioni di base sul connettore avanzato di Workfront</a>
           </p>
           <p class="is-size-6"><em>Scopri le nozioni di base del connettore avanzato di Adobe Workfront e Experience Manager Assets.</em></p>
       </div>
@@ -261,7 +261,7 @@ Adobi di soluzioni utilizzate per la pianificazione e il flusso di lavoro:
 
 ## Risorse aggiuntive
 
-* [Eventi Experience League](https://experienceleague.adobe.com/events/)
+* [Eventi Experienci League](https://experienceleague.adobe.com/events/)
 * [Adobe [!DNL GenStudio] su business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
 * [Adobe [!DNL GenStudio] guida alle risorse](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
 * [Adobe sulla catena di fornitura dei contenuti](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
